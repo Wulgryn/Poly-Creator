@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Poly Creator (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Poly Creator (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
